@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaInbound
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaInbound.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaInventory
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaInventory.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaOutbound
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.FbaOutbound.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Products
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Orders.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Orders
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.MerchantFulfillment.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.MerchantFulfillment
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Finances.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Finances
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Feeds.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Feeds
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Reports
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Products.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Sellers.Test
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.Sellers
+/Services/Claytondus.AmazonMWS/Claytondus.AmazonMWS-master/Claytondus.AmazonMWS.sln
+/.vs
